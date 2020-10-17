@@ -1,0 +1,49 @@
+---
+layout: default
+title: LIVSSTIL & BRYLLUPSFOTOGRAF • OSLO NORGE
+description: Jonnathan Griffin is a photographer based in Oslo Norway who focuses on landscape and nature photography.
+featured_image: /images/wedding/wedding.gif
+image_alt: key words here
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<center><h1>{{ page.title }}</h1></center> <br><br><br>
+		<img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" />
+	</div>
+
+
+</section>
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for wedding in site.weddings reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ wedding.url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ wedding.featured_image  }}" alt="{{ wedding.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ wedding.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ wedding.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>

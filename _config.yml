@@ -1,0 +1,62 @@
+site: Griffin Photography Oslo Norway
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  portraits:
+    output: true
+    permalink: /blog/portrait/:slug
+  weddings:
+    output: true
+    permalink: /blog/wedding/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "portraits"
+    values:
+      layout: "portrait"
+  -
+    scope:
+      path: ""
+      type: "weddings"
+    values:
+      layout: "wedding"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+gallery_types:
+  carousel: Carousel
+  grid: Grid
+grid_columns:
+  two: Two
+  three: Three
+  four: Four
+  
