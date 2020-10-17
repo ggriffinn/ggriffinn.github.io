@@ -1,11 +1,11 @@
 ---
 title: 'Oslo Norway'
-subtitle: 'cherry blossoms'
-date: 2020-04-26 00:00:00
-description: Exploring the beautiful city of Oslo in spring. What better way than taking photos of cherry blossoms. 
-featured_image: '/images/2020-springioslo/01.jpg'
-image_path: '/images/2020-springioslo'
-image_alt: 'your keywords here'
+subtitle: 'Gamze & Zeki'
+date: 2020-08-28 00:00:00
+description: Norwegian wedding photography focused on bryllup and portrait photography. 
+featured_image: '/images/2020-08-28-gamze-zeki/01.jpg'
+image_path: '/images/2020-08-28-gamze-zeki'
+image_alt: 'bryllup oslo fotograph norway'
 ---
 
 <!-- > “Cherry blossoms, the symbolic flower of the spring.” -->
