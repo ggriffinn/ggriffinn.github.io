@@ -7,6 +7,6 @@
 ### Image carousels
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/wedding/demo/demo-landscape.jpg">
+	<img src="/images/wedding/demo/demo-landscape-2.jpg">
 </div>

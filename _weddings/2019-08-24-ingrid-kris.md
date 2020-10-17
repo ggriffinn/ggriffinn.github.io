@@ -3,8 +3,8 @@ title: 'Oslo Norway'
 subtitle: 'Ingrid & Kris'
 date: 2020-08-08 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/2019-08-24-ingrid-kris/01.jpg'
-image_path: '/images/2019-08-24-ingrid-kris'
+featured_image: '/images/wedding/2019-08-24-ingrid-kris/01.jpg'
+image_path: '/images/wedding/2019-08-24-ingrid-kris'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 

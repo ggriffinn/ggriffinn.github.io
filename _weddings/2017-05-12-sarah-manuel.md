@@ -3,8 +3,8 @@ title: 'Oslo Norway'
 subtitle: 'Sarah & Manuel'
 date: 2017-07-29 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/2017-05-12-sarah-manuel/01.jpg'
-image_path: '/images/2017-05-12-sarah-manuel'
+featured_image: '/images/wedding/2017-05-12-sarah-manuel/01.jpg'
+image_path: '/images/wedding/2017-05-12-sarah-manuel'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 

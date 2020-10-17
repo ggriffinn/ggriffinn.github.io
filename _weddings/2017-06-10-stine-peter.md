@@ -3,8 +3,8 @@ title: 'Oslo Norway'
 subtitle: 'Stine & Peter'
 date: 2017-06-10 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/2017-06-10-stine-peter/01.jpg'
-image_path: '/images/2017-06-10-stine-peter'
+featured_image: '/images/wedding/2017-06-10-stine-peter/01.jpg'
+image_path: '/images/wedding/2017-06-10-stine-peter'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 

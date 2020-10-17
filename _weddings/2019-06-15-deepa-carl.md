@@ -3,8 +3,8 @@ title: 'Oslo Norway'
 subtitle: 'Deepa & Carl'
 date: 2019-06-15 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/2019-06-15-deepa-carl/01.jpg'
-image_path: '/images/2019-06-15-deepa-carl'
+featured_image: '/images/wedding/2019-06-15-deepa-carl/01.jpg'
+image_path: '/images/wedding/2019-06-15-deepa-carl'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 
