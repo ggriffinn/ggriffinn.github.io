@@ -13,7 +13,7 @@ menu_settings:
   menu_items_more:
     - title: 'LIVSTILL.'
       url: '/livstill'
-    - title: 'ABOUT.'
+    - title: 'OM.'
       url: '/om/'
     - title: 'INVESTERING.'
       url: '/investering'
