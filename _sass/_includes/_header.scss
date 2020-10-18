@@ -67,13 +67,14 @@
 .menu {
 	
 	// commenting out so the header wraps
+	// commenting out so we get the links in the overflow
 
-	@include mq(tabletl) {
-		position: absolute;
-		top: 50%;
-		right: 20px;
-		@include translate(0,-50%);
-	}
+	// @include mq(tabletl) {
+	// 	position: absolute;
+	// 	top: 50%;
+	// 	right: 20px;
+	// 	@include translate(0,-50%);
+	// }
 }
 
 .menu__toggle {
@@ -92,7 +93,8 @@
 	}
 	
 	@include mq(tabletl) {
-		display: none;
+		// display: none;
+		right: 0;
 	}
 }
 
@@ -161,14 +163,15 @@
 	opacity: 0;
 	@include transition(all 0.2s ease-in-out);
 
-	@include mq(tabletl) {
-		position: relative;
-		background: transparent;
-		visibility: visible;
-		overflow: visible;
-		opacity: 1;
-		@include transition(none);
-	}
+	// comment out to remove the links on the top
+	// @include mq(tabletl) {
+	// 	position: relative;
+	// 	background: transparent;
+	// 	visibility: visible;
+	// 	overflow: visible;
+	// 	opacity: 1;
+	// 	@include transition(none);
+	// }
 }
 
 .menu--open .menu__wrap {
@@ -186,10 +189,13 @@
 		max-width: 70%;
 	}
 
-	@include mq(tabletl) {
-		max-width: none;
-		margin: 0;
-		padding: 0;
+	@include mq(desktop) {
+		// comment out to disable links ontop
+		// max-width: none;
+		// margin: 0;
+		// padding: 0;
+		padding: 40px 0 0;
+		max-width: 50%;
 	}
 }
 
