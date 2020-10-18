@@ -1,9 +1,9 @@
 ---
-title: 'Oslo Norway'
+title: 'Denmark'
 subtitle: 'AnneKatrine & Andre'
 date: 2016-06-18 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2016-06-18-annekatrine-andre/01.jpg'
+featured_image: '/images/wedding/2016-06-18-annekatrine-andre/AnneKatrine&Andre-76.jpg'
 image_path: '/images/wedding/2016-06-18-annekatrine-andre'
 image_alt: 'bryllup oslo fotograph norway'
 ---
