@@ -18,16 +18,16 @@ autopages:
 
 				<div class="blog-post__wrap">
 
-					{% if wedding.featured_image %}
-					<a href="{{ wedding.url }}" class="blog-post__image" style="background-image: url('{{ wedding.featured_image  }}');">
-						<img src="{{ wedding.featured_image }}" alt="{{ wedding.title }}" class="blog-post__image__img">
+					{% if bryllup.featured_image %}
+					<a href="{{ bryllup.url }}" class="blog-post__image" style="background-image: url('{{ bryllup.featured_image  }}');">
+						<img src="{{ bryllup.featured_image }}" alt="{{ bryllup.title }}" class="blog-post__image__img">
 					</a>
 					{% endif %}
 
 					<div class="blog-post__content">
-						<h2 class="blog-post__title"><a href="{{ wedding.url }}">{{ wedding.title }}</a></h2>
-						<p class="blog-post__date">{{ wedding.date | date_to_long_string }}</p>
-						<p class="blog-post__description">{{ wedding.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+						<h2 class="blog-post__title"><a href="{{ bryllup.url }}">{{ bryllup.title }}</a></h2>
+						<p class="blog-post__date">{{ bryllup.date | date_to_long_string }}</p>
+						<p class="blog-post__description">{{ bryllup.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 					</div>
 
 				</div>

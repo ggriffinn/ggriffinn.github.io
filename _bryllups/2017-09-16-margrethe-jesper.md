@@ -1,16 +1,16 @@
 ---
 title: 'Oslo Norway'
-subtitle: 'Thea & Cato'
-date: 2019-08-17 00:00:00
-description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2019-08-17-thea-cato/042_Thea&Cato_W_griffinphotography_oslo_norway_bryllup_wedding_20190817.jpg'
-image_path: '/images/wedding/2019-08-17-thea-cato'
+subtitle: 'Margretehe & Jesper'
+date: 2017-09-16 00:00:00
+description: Norwegian bryllup photography focused on bryllup and portrait photography. 
+featured_image: '/images/bryllup/2017-09-16-margrethe-jesper/00032_Margrethe&Jesper_W_Oslo_Griffin_Photography.jpg'
+image_path: '/images/bryllup/2017-09-16-margrethe-jesper'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 
-> 2019-08-17
+> 2017-09-16
 > 
-> Bryllup Dömle Herrgard Sweden
+> Lysebu Bryllup i Oslo
 
 <!-- DO NOT EDIT BELOW -->
 <div class="image-wrap" >

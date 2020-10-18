@@ -4,12 +4,12 @@ collections:
   pages:
     output: true
     permalink: /:name
-  portraits:
+  livstills:
     output: true
-    permalink: /portrait/:slug
-  weddings:
+    permalink: /livstill/:slug
+  bryllups:
     output: true
-    permalink: /wedding/:slug
+    permalink: /bryllup/:slug
 
 defaults:
   -
@@ -26,15 +26,15 @@ defaults:
   -
     scope:
       path: ""
-      type: "portraits"
+      type: "livstills"
     values:
-      layout: "portrait"
+      layout: "livstill"
   -
     scope:
       path: ""
-      type: "weddings"
+      type: "bryllups"
     values:
-      layout: "wedding"
+      layout: "bryllup"
 
 markdown: kramdown
 
@@ -50,7 +50,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/wedding/page:num/"
+paginate_path: "/bryllup/page:num/"
 
 gallery_types:
   carousel: Carousel

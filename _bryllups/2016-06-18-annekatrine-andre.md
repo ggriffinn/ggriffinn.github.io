@@ -1,10 +1,10 @@
 ---
-title: 'Oslo Norway'
-subtitle: 'Caroline & Morten'
-date: 2017-07-29 00:00:00
-description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2017-07-29-caroline-morten/86_170729_Caroline&Morten_W_Oslo_Norway.jpg'
-image_path: '/images/wedding/2017-07-29-caroline-morten'
+title: 'Denmark'
+subtitle: 'AnneKatrine & Andre'
+date: 2016-06-18 00:00:00
+description: Norwegian bryllup photography focused on bryllup and portrait photography. 
+featured_image: '/images/bryllup/2016-06-18-annekatrine-andre/AnneKatrine&Andre-76.jpg'
+image_path: '/images/bryllup/2016-06-18-annekatrine-andre'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 

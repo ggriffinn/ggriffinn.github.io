@@ -1,16 +1,17 @@
 ---
 title: 'Oslo Norway'
-subtitle: 'Sara & Baard'
-date: 2018-03-03 00:00:00
-description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2018-03-03-sara-baard/58_WEB_Sara&BaardErik_180303.jpg'
-image_path: '/images/wedding/2018-03-03-sara-baard'
+subtitle: 'Ingrid & Kris'
+date: 2019-08-24 00:00:00
+description: Norwegian bryllup photography focused on bryllup and portrait photography. 
+featured_image: '/images/bryllup/2019-08-24-ingrid-kris/090_Ingrid&Kris_W_griffinphotography_oslo_norway_bryllup_bryllup_20190824.jpg'
+image_path: '/images/bryllup/2019-08-24-ingrid-kris'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 
-> 2018-03-03
+> 2019-08-24
 > 
-> Holmenkollen Bryllup i Oslo
+> Bryllup i Moss
+
 
 <!-- DO NOT EDIT BELOW -->
 <div class="image-wrap" >
