@@ -3,7 +3,7 @@ title: 'Rådhuset, Oslo'
 subtitle: 'Gamze & Zeki'
 date: 2020-08-28 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2020-08-28-gamze-zeki/01.jpg'
+featured_image: '/images/wedding/2020-08-28-gamze-zeki/057_W_griffinphotography_oslo_norway_bryllup_wedding_rådhuset_20200828.jpg'
 image_path: '/images/wedding/2020-08-28-gamze-zeki'
 image_alt: 'bryllup oslo fotograph norway'
 ---
