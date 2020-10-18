@@ -9,10 +9,10 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'BRYLLUP.'
-      url: '/bryllup/'
+      url: '/bryllup'
   menu_items_more:
     - title: 'LIVSTILL.'
-      url: '/livstill/'
+      url: '/livstill'
     - title: 'ABOUT.'
       url: '/om/'
     - title: 'INVESTERING.'
