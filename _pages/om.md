@@ -5,10 +5,8 @@ description: A photographer based in Oslo, Norway.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
-## About me
+## Om meg
 
-some text here
-
-<a href="https://www.jonnygrifff.no/contact" class="button button--medium">CONTACT ME</a> for custom prints or inquiries.
+Some text coming soon

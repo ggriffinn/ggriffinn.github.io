@@ -7,14 +7,10 @@ image_alt: key words here
 ---
 
 <section class="intro">
-
 	<div class="wrap">
-
 		<center><h1>{{ page.title }}</h1></center> <br><br><br>
 		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center>
 	</div>
-
-
 </section>
 
 <section class="portfolio">
