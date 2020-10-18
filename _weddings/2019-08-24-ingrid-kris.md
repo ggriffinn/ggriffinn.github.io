@@ -1,14 +1,17 @@
 ---
 title: 'Oslo Norway'
 subtitle: 'Ingrid & Kris'
-date: 2020-08-08 00:00:00
+date: 2019-08-24 00:00:00
 description: Norwegian wedding photography focused on bryllup and portrait photography. 
-featured_image: '/images/wedding/2019-08-24-ingrid-kris/01.jpg'
+featured_image: '/images/wedding/2019-08-24-ingrid-kris/090_Ingrid&Kris_W_griffinphotography_oslo_norway_bryllup_wedding_20190824.jpg'
 image_path: '/images/wedding/2019-08-24-ingrid-kris'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 
-<!-- > “Cherry blossoms, the symbolic flower of the spring.” -->
+> 2019-08-24
+> 
+> Bryllup i Moss
+
 
 <!-- DO NOT EDIT BELOW -->
 <div class="image-wrap" >

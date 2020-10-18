@@ -11,7 +11,7 @@ image_alt: key words here
 	<div class="wrap">
 
 		<center><h1>{{ page.title }}</h1></center> <br><br><br>
-		<img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" />
+		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center>
 	</div>
 
 

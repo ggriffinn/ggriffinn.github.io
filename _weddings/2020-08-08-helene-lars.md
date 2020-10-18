@@ -8,8 +8,9 @@ image_path: '/images/wedding/2020-08-08-helene-lars'
 image_alt: 'bryllup oslo fotograph norway'
 ---
 
-<!-- > “Cherry blossoms, the symbolic flower of the spring.” -->
-
+> 2020-08-08
+>
+> Oslo Bryllup i Østmarka
 <!-- DO NOT EDIT BELOW -->
 <div class="image-wrap" >
 {% for image in site.static_files %}
