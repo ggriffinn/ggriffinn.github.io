@@ -7,14 +7,10 @@ image_alt: key words here
 ---
 
 <section class="intro">
-
 	<div class="wrap">
-
 		<center><h1>{{ page.title }}</h1></center> <br><br><br>
 		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center>
 	</div>
-
-
 </section>
 
 
@@ -23,20 +19,20 @@ image_alt: key words here
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% for travel in site.travels reversed %}
+		{% for wedding in site.weddings reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ travel.url }}">
+			<a class="portfolio-item__link" href="{{ wedding.url }}">
 
 				<div class="portfolio-item__image">
-					<img src="{{ travel.featured_image  }}" alt="{{ travel.title }}">
+					<img src="{{ wedding.featured_image  }}" alt="{{ wedding.title }}">
 				</div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ travel.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ travel.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ wedding.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ wedding.subtitle }}</p>
 					</div>
 				</div>
 

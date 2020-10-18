@@ -6,10 +6,10 @@ collections:
     permalink: /:name
   portraits:
     output: true
-    permalink: /blog/portrait/:slug
+    permalink: /portrait/:slug
   weddings:
     output: true
-    permalink: /blog/wedding/:slug
+    permalink: /wedding/:slug
 
 defaults:
   -
@@ -50,7 +50,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/wedding/page:num/"
 
 gallery_types:
   carousel: Carousel
