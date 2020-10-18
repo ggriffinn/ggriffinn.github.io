@@ -7,4 +7,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ![](/images/demo/about.jpg)
 
-Thanks again!
+Thanks for sending your message to us at hei@griffinphotography.no. We will get back to you as soon as possible!
+
+Frequently asked questions:
+
+

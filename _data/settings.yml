@@ -36,7 +36,7 @@ grid_settings:
 
 contact_settings:
   form_action: 'https://formspree.io/mwkqdjrv'
-  confirmation_url: '/'
+  confirmation_url: '/takk'
   email_subject: 'Message from griffinphotography.no'
   send_button_text: 'Send Message'
 
