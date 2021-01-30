@@ -4,15 +4,15 @@ basic_settings:
 
 header_settings:
   logo_image: /images/griffin.png
-  logo_width: 200
+  logo_width: 150
 
 menu_settings:
   menu_items:
     - title: 'BRYLLUP.'
       url: '/bryllup'
   menu_items_more:
-    - title: 'LIVSTILL.'
-      url: '/livstill'
+    # - title: 'LIVSTILL.'
+    #   url: '/livstill'
     - title: 'OM.'
       url: '/om/'
     - title: 'INVESTERING.'
@@ -21,8 +21,8 @@ menu_settings:
       url: '/kontakt'
     - title: '.'
       # url: ''
-    - title: 'for photographers.'
-      url: '/photographers'
+    # - title: 'for photographers.'
+    #   url: '/photographers'
 
 footer_settings:
   logo_image: 
