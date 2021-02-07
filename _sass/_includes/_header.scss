@@ -71,6 +71,8 @@
 	// 	right: 20px;
 	// 	@include translate(0,-50%);
 	// }
+	margin: auto;
+  	width: 70%;
 }
 
 .menu__toggle {
@@ -160,14 +162,14 @@
 	@include transition(all 0.2s ease-in-out);
 
 	// comment out to remove the links on the top
-	// @include mq(tabletl) {
-	// 	position: relative;
-	// 	background: transparent;
-	// 	visibility: visible;
-	// 	overflow: visible;
-	// 	opacity: 1;
-	// 	@include transition(none);
-	// }
+	@include mq(tabletl) {
+		position: relative;
+		background: transparent;
+		visibility: visible;
+		overflow: visible;
+		opacity: 1;
+		@include transition(none);
+	}
 }
 
 .menu--open .menu__wrap {
@@ -187,24 +189,24 @@
 
 	@include mq(desktop) {
 		// comment out to disable links ontop
-		// max-width: none;
-		// margin: 0;
-		// padding: 0;
+		max-width: none;
+		margin: 0;
+		padding: 0;
 		padding: 40px 0 0;
-		max-width: 50%;
+		max-width: 100%;
 	}
 }
 
 .menu__list__item {
 
-	// @include mq(tabletl) {
-	// 	display: inline-block;
-	// 	margin-left: 20px;
+	@include mq(tabletl) {
+		display: inline-block;
+		margin-left: 20px;
 
-	// 	&:first-child {
-	// 		margin-left: 0;
-	// 	}
-	// }
+		&:first-child {
+			margin-left: 0;
+		}
+	}
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
