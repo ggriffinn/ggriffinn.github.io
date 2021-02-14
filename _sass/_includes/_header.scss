@@ -87,17 +87,23 @@
 	color: $text-dark-color;
 
 	@include mq(tabletp) {
-		display: none;
+		// display: none;
 		right: 0;
 	}
 	
 	@include mq(tabletl) {
-		display: none;
+		// display: none;
 		right: 0;
 	}
 	
+	@include mq(laptop	) {
+		display: none;
+		right: 0;
+	}
+
 	@include mq(desktop) {
 		display: none;
+		right: 0;
 	}
 }
 

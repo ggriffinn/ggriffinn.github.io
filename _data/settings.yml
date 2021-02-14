@@ -38,7 +38,7 @@ contact_settings:
   form_action: 'https://formspree.io/f/mqkgoedl'
   confirmation_url: '/'
   email_subject: 'Message from griffinphotography.no'
-  send_button_text: 'Send Message'
+  send_button_text: 'Send Message to hei@griffinphotography.no'
 
 social_settings:
   facebook_url: ''
