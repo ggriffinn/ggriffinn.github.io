@@ -87,12 +87,17 @@
 	color: $text-dark-color;
 
 	@include mq(tabletp) {
+		display: none;
 		right: 0;
 	}
 	
 	@include mq(tabletl) {
-		// display: none;
+		display: none;
 		right: 0;
+	}
+	
+	@include mq(desktop) {
+		display: none;
 	}
 }
 
@@ -215,7 +220,7 @@
 
 .menu__list__item__link {
 	font-size: $menu-small;
-	font-weight: $menu-weight;
+	font-weight: 500;
 	color: $overlay-text-color;
 	padding: 10px 0;
 

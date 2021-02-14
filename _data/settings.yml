@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'BRYLLUP.'
+    - title: 'BRYLLUP'
       url: '/bryllup'
   menu_items_more:
     # - title: 'LIVSTILL.'
@@ -17,7 +17,7 @@ menu_settings:
     #   url: '/om/'
     # - title: 'INVESTERING.'
     #   url: '/investering'
-    - title: 'KONTAKT.'
+    - title: 'KONTAKT'
       url: '/kontakt'
     # - title: '.'
       # url: ''
@@ -31,12 +31,12 @@ footer_settings:
   instagram: griffinphotography.no
 
 grid_settings:
-  overlay_opacity: 0.1
+  overlay_opacity: 0.6
   grid_spacing: 10
 
 contact_settings:
   form_action: 'https://formspree.io/f/mqkgoedl'
-  confirmation_url: '/takk'
+  confirmation_url: '/'
   email_subject: 'Message from griffinphotography.no'
   send_button_text: 'Send Message'
 
