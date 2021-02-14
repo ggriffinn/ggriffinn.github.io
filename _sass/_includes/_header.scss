@@ -179,7 +179,9 @@
 
 .menu__list {
 	list-style: none;
-	margin: 0 auto;
+	// margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 30px;
 
 	@include mq(tabletp) {
@@ -188,9 +190,8 @@
 	}
 
 	@include mq(desktop) {
-		// comment out to disable links ontop
 		max-width: none;
-		margin: 0;
+		// margin: 0;
 		padding: 0;
 		padding: 40px 0 0;
 		max-width: 100%;
@@ -201,7 +202,7 @@
 
 	@include mq(tabletl) {
 		display: inline-block;
-		margin-left: 20px;
+		// margin-left: 20px;
 
 		&:first-child {
 			margin-left: 0;
@@ -210,7 +211,6 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 .menu__list__item__link {
