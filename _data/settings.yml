@@ -13,13 +13,13 @@ menu_settings:
   menu_items_more:
     # - title: 'LIVSTILL.'
     #   url: '/livstill'
-    - title: 'OM.'
-      url: '/om/'
-    - title: 'INVESTERING.'
-      url: '/investering'
+    # - title: 'OM.'
+    #   url: '/om/'
+    # - title: 'INVESTERING.'
+    #   url: '/investering'
     - title: 'KONTAKT.'
       url: '/kontakt'
-    - title: '.'
+    # - title: '.'
       # url: ''
     # - title: 'for photographers.'
     #   url: '/photographers'
@@ -35,7 +35,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/mwkqdjrv'
+  form_action: 'https://formspree.io/f/mqkgoedl'
   confirmation_url: '/takk'
   email_subject: 'Message from griffinphotography.no'
   send_button_text: 'Send Message'
@@ -95,7 +95,7 @@ font_settings:
     weight: 100
     letter_spacing: -0.02
   menu:
-    small_size: 15
+    small_size: 45
     medium_size: 20
     large_size: 25
     weight: 300

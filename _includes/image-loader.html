@@ -1,0 +1,8 @@
+<div class="image-wrap-lazy" >
+{% for image in site.static_files %}
+    {% if image.path contains page.image_path %}
+        <div class="image-wrap-lazy" >
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.image_alt }}" class="lazyload" />
+        </div>
+    {% endif %}
+{% endfor %}
