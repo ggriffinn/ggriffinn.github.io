@@ -1,15 +1,15 @@
-<div class="contact-form">
+<div class="contact-form">	
 
-	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
+	<form method="POST" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
 
 		<div class="contact-form__item">
 			<!-- <label class="contact-form__label">Email Address *</label> -->
-			<input type="text" name="email" placeholder="Bride email address..." class="contact-form__input">
+			<input type="text" name="_replyto" placeholder="* Email address..." class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
 			<!-- <label class="contact-form__label">Name *</label> -->
-			<input type="text" name="email" placeholder="Groom email address..." class="contact-form__input">
+			<input type="text" name="email" placeholder="Your spouse email address..." class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
@@ -27,13 +27,15 @@
 			<textarea name="message" placeholder="Your details..." class="contact-form__textarea"></textarea>
 		</div>
 
-		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
+		<!-- <input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
 		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject }}" />
-		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val=""> -->
 
 		<div class="contact-form__item">
 			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
 		</div>
+
+		<!-- <p id="my-form-status"></p> -->
 
 	</form>
 
