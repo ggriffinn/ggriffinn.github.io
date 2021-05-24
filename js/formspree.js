@@ -11,10 +11,10 @@ async function handleSubmit(event) {
         'Accept': 'application/json'
     }
     }).then(response => {
-    status.innerHTML = "Thanks for your submission!";
+    status.innerHTML = "Thanks for your submission and we will get back to you shortly! You can also reach out to us directly via email, hei@griffinphotography.no";
     form.reset()
     }).catch(error => {
-    status.innerHTML = "Oops! There was a problem submitting your form"
+    status.innerHTML = "Oops! There was a problem submitting your form. Feel free to email us directly at hei@griffinphotography.no"
     });
 }
 form.addEventListener("submit", handleSubmit)
