@@ -8,7 +8,7 @@ featured_image: /images/livstill/livstill.gif
 <section class="intro">
 	<div class="wrap">
 		<center><h1>{{ page.title }}</h1></center> <br><br><br>
-		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center><br><br>
+		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" data-aos="fade-up"/></center><br><br>
 		<center><p>Many of our customers ask us about our lifestyle sessions. Think of as if we are going to a photoshoot tomorrow, what would we do? Or even better, what do you love to do and what represents you? Are you a coffee lover or more adventurous and love to wander? These personal moments are perfect situations for Sophia and me to capture authentic moments. Feel free to take a look at our portfolios of personal lifestyles.</p></center>
 	</div>
 </section>
@@ -21,7 +21,7 @@ featured_image: /images/livstill/livstill.gif
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ portrait.url }}">
+			<a class="portfolio-item__link" href="{{ portrait.url }}" data-aos="fade-up">
 
 				<div class="portfolio-item__image">
 					<img src="{{ portrait.featured_image  }}" alt="{{ portrait.title }}">

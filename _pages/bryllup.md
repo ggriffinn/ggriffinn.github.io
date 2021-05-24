@@ -10,7 +10,7 @@ image_alt: key words here
 	<div class="wrap">
 		<center><h1>{{ page.title }}</h1></center> <br><br><br>
 		<center><p>Your wedding anniversary is the most important day of life. It‘s a day filled with unforgettable moments, along with people you love and care about. As wedding photographers based in Oslo, Norway our aim is to transform this day into a special memory that can be cherished for a lifetime.</p></center><br><br><br>
-		<center><img src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center>
+		<center><img data-aos="fade-up" src="{{ page.featured_image }}" alt="{{ page.image_alt }}" /></center>
 	</div>
 </section>
 
@@ -22,7 +22,7 @@ image_alt: key words here
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ bryllup.url }}">
+			<a class="portfolio-item__link" href="{{ bryllup.url }}" data-aos="fade-up">
 
 				<div class="portfolio-item__image">
 					<img src="{{ bryllup.featured_image  }}" alt="{{ bryllup.title }}">
