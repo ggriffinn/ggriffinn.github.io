@@ -1,8 +1,8 @@
 <div class="image-wrap">
     {% for image in site.static_files %}
     {% if image.path contains page.image_path %}
-    <div class="image-wrap" data-aos="fade-up">
-        <img class="lazyload" src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.image_alt }}" />
+    <div class="image-wrap">
+        <img class="lazyload" data-src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.image_alt }}" />
     </div>
     {% endif %}
     {% endfor %}
