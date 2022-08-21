@@ -1,2 +1,2 @@
-bash namertopia.sh rename 2020-slc
-bash namertopia.sh resize 2020-slc 2800
+❯❯❯ bash namertopia.sh rename /Users/jonny/Documents/code-ggriffinn/ggriffinn.github.io/images/bryllup/2022-07-16-aude-harry/
+❯❯❯ bash namertopia.sh resize /Users/jonny/Documents/code-ggriffinn/ggriffinn.github.io/images/bryllup/2022-07-16-aude-harry/ 2800

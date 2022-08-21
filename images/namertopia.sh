@@ -62,6 +62,6 @@ $@
 # else
 #   printf "'$1' is not a known function name\n" >&2
 #   printf "EXAMPLE COMMAND:\n" >&2
-#   printf "./namertopia.sh rename directory/of/photos\n" >&2
-#   printf "./namertopia.sh resize directory/of/photos 2800\n" >&2
+#   printf "./namertopia.sh rename /Users/jonny/Documents/code-ggriffinn/ggriffinn.github.io/images/bryllup/2022-07-16-aude-harry/\n" >&2
+#   printf "./namertopia.sh resize /Users/jonny/Documents/code-ggriffinn/ggriffinn.github.io/images/bryllup/2022-07-16-aude-harry/ 2800\n" >&2
 # fi
