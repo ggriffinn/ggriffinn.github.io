@@ -2,7 +2,7 @@
 title: 'Nimes, France'
 subtitle: 'Aude & Harry'
 date: 2022-07-16 00:00:00
-description: Horses and wedding
+description: A French American wedding in Nimes, France. With the smell of lavender, 40 degrees heat and a wool suit, this destination wedding goes into the books.
 featured_image: '/images/bryllup/2022-07-16-aude-harry/59.jpg'
 image_path: '/images/bryllup/2022-07-16-aude-harry'
 image_alt: 'bryllup oslo fotograph norway'
