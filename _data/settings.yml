@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'BRYLLUP'
+    - title: 'BRYLLUP.'
       url: '/bryllup'
   menu_items_more:
     # - title: 'LIVSTILL.'
@@ -17,7 +17,7 @@ menu_settings:
     #   url: '/om/'
     # - title: 'INVESTERING.'
     #   url: '/investering'
-    - title: 'KONTAKT'
+    - title: 'KONTAKT.'
       url: '/kontakt'
     # - title: '.'
       # url: ''
@@ -27,7 +27,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Jonnathan Griffin; Landscape and travel photographer based in Oslo, Norway
+  footer_tagline: Jonny Griffin; Landscape and travel photographer based in Oslo, Norway
   instagram: griffinphotography.no
 
 grid_settings:

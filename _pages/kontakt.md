@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 subtitle: <a href="mailto:hei@griffinphotography.no">hei@griffinphotography.no</a>
-description: Jonnathan Griffin is a bryllupfotograf based in Oslo, Norway
+description: Jonny Griffin is a bryllupfotograf based in Oslo, Norway
 featured_image: /images/kontakt.jpg
 ---
 

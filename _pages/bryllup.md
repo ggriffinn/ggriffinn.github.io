@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LIVSSTIL & BRYLLUPSFOTOGRAF • OSLO NORGE
-description: Jonnathan Griffin is a photographer based in Oslo Norway who focuses on landscape and nature photography.
+description: Jonny Griffin is a photographer based in Oslo Norway who focuses on landscape and nature photography.
 featured_image: /images/bryllup/bryllup.gif
 image_alt: key words here
 ---
